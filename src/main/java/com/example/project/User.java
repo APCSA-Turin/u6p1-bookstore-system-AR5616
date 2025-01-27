@@ -52,7 +52,7 @@ public class User {
             if (books[i] == null) {
                 bookListInfo += "empty\n";
             } else {
-                // adds the info of the book to the String if the slot is not empty
+            // adds the info of the book to the String if the slot is not empty
                 bookListInfo += books[i].bookInfo() + "\n";
             }
         }
