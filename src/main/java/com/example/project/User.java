@@ -1,7 +1,7 @@
 package com.example.project;
 
 public class User {
-    //requires 3 private attributes String name, String Id, Book book that is initialized to empty
+    // requires 3 private attributes String name, String Id, Book book that is initialized to empty
     private String name;
     private String Id;
     private Book[] books = new Book[5];
